@@ -7,7 +7,7 @@ about:
   head: e996e09
   archived: false
   latestVersion: v3.11.0
-  collectedAt: 2026-09-04T19:58:15Z
+  collectedAt: 2026-09-04T20:41:30Z
 timeline:
   created: 2019-05-31
   lastCommit: 2026-08-18
@@ -83,6 +83,39 @@ total:
   openIssue: 21
   commit: 718
 ---
+path: /home/runner/.x-repo/github.com/vultr/vultr-cli
+collectedAt: 2026-09-04T20:41:32Z
+loc:
+  Go:
+    code: 23463
+    comments: 1380
+    blanks: 4134
+    files: 73
+  Makefile:
+    code: 29
+    comments: 0
+    blanks: 14
+    files: 1
+  Dockerfile:
+    code: 13
+    comments: 0
+    blanks: 7
+    files: 1
+  Sh:
+    code: 4
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 852
+    blanks: 257
+    files: 3
+total:
+  code: 23509
+  comments: 2233
+  blanks: 4413
+  files: 79
 ---
 date: "2026-08-24"
 repo:
