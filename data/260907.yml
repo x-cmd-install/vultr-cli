@@ -5,13 +5,13 @@ about:
   head: e996e09
   archived: false
   latestVersion: "v3.11.0"
-  collectedAt: 2026-09-07T05:37:42Z
+  collectedAt: 2026-09-07T18:49:35Z
 timeline:
   created: 2019-05-31
   lastCommit: 2026-08-18
   lastRelease: 2026-08-07
 popularity:
-  star: 556
+  star: 557
   watcher: 12
   fork: 85
   release: 76
@@ -82,7 +82,7 @@ total:
   commit: 718
 ---
 path: /home/runner/.x-repo/github.com/vultr/vultr-cli
-collectedAt: 2026-09-07T05:37:44Z
+collectedAt: 2026-09-07T18:49:39Z
 loc:
   Go:
     code: 23463
@@ -228,7 +228,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:37:44+00:00
+  collectedAt: 2026-09-07T18:49:40+00:00
   platform:
     darwin/arm64:
       name:  vultr-cli_v3.11.0_macOs_arm64.tar.gz
