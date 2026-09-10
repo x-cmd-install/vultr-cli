@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.11.0"
   latestRelease: "v3.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:38:30Z
+  collectedAt: 2026-09-10T20:32:45Z
 timeline:
   created: 2019-05-31
   lastCommit: 2026-08-18
@@ -86,7 +86,7 @@ total:
   commit: 718
 ---
 path: /home/runner/.x-repo/github.com/vultr/vultr-cli
-collectedAt: 2026-09-10T05:38:32Z
+collectedAt: 2026-09-10T20:32:46Z
 loc:
   Go:
     code: 23463
