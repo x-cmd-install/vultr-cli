@@ -1,59 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: vultr-cli
-  binname: vultr-cli
-  visiblename: vultr-cli
-  version: 3.11.0
-  origversion: 3.11.0-1
-  status: newest
-  summary: Official command line tool for Vultr services
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: vultr-cli
-  binname: vultr-cli
-  visiblename: vultr-cli
-  version: 3.11.0
-  origversion: 3.11.0-1
-  status: newest
-  summary: Official command line tool for Vultr services
-  licenses:
-    - Apache-2.0
-- repo: homebrew
-  srcname: vultr-cli
-  visiblename: vultr-cli
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line tool for Vultr services
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: vultr-cli
-  binname: vultr-cli
-  visiblename: vultr-cli
-  version: 3.11.0
-  origversion: 3.11.0-1
-  status: newest
-  summary: Official command line tool for Vultr services
-  licenses:
-    - Apache-2.0
-- repo: fedora_rawhide
-  subrepo: development
-  srcname: vultr-cli
-  binnames:
-    - vultr-cli
-    - vultr-cli-debuginfo
-    - vultr-cli-debugsource
-  visiblename: vultr-cli
-  version: 3.9.2
-  origversion: 3.9.2-2.fc45
-  status: outdated
-  summary: Official command line tool for Vultr services
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
 - repo: arch
   subrepo: extra
   srcname: vultr-cli
@@ -164,22 +108,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: updates
-  srcname: vultr-cli
-  binnames:
-    - vultr-cli
-    - vultr-cli-debuginfo
-    - vultr-cli-debugsource
-  visiblename: vultr-cli
-  version: 3.6.0
-  origversion: 3.6.0-1.fc42
-  status: outdated
-  summary: Official command line tool for Vultr services
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: release
   srcname: vultr-cli
   binnames:
@@ -194,6 +122,22 @@
   summary: Official command line tool for Vultr services
   licenses:
     - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: vultr-cli
+  binnames:
+    - vultr-cli
+    - vultr-cli-debuginfo
+    - vultr-cli-debugsource
+  visiblename: vultr-cli
+  version: 3.6.0
+  origversion: 3.6.0-1.fc42
+  status: outdated
+  summary: Official command line tool for Vultr services
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_43
@@ -228,6 +172,22 @@
     - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: vultr-cli
+  binnames:
+    - vultr-cli
+    - vultr-cli-debuginfo
+    - vultr-cli-debugsource
+  visiblename: vultr-cli
+  version: 3.9.2
+  origversion: 3.9.2-2.fc45
+  status: outdated
+  summary: Official command line tool for Vultr services
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
 - repo: freebsd
   srcname: www/vultr-cli
   binname: vultr-cli
@@ -247,6 +207,46 @@
   origversion: null
   status: newest
   summary: Command-line tool for Vultr services
+- repo: homebrew
+  srcname: vultr-cli
+  visiblename: vultr-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line tool for Vultr services
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: vultr-cli
+  binname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.11.0
+  origversion: 3.11.0-1
+  status: newest
+  summary: Official command line tool for Vultr services
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: vultr-cli
+  binname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.11.0
+  origversion: 3.11.0-1
+  status: newest
+  summary: Official command line tool for Vultr services
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vultr-cli
+  binname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.11.0
+  origversion: 3.11.0-1
+  status: newest
+  summary: Official command line tool for Vultr services
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: vultr-cli
   visiblename: vultr-cli
