@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-07-14 | 1 | 5 | 2 | 1 | 1 | 5 |
-| 90d | 2026-06-14 | 1 | 5 | 2 | 1 | 1 | 5 |
-| last180d | 2026-03-16 | 3 | 24 | 2 | 2 | 1 | 25 |
-| 360d | 2025-09-17 | 4 | 37 | 2 | 5 | 1 | 39 |
-| last720d | 2024-09-22 | 8 | 99 | 2 | 14 | 7 | 105 |
+| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-15 | 1 | 5 | 2 | 1 | 1 | 4 |
+| 90d | 2026-06-15 | 1 | 5 | 2 | 1 | 1 | 5 |
+| last180d | 2026-03-17 | 3 | 24 | 2 | 2 | 1 | 21 |
+| 360d | 2025-09-18 | 4 | 37 | 2 | 5 | 1 | 34 |
+| last720d | 2024-09-23 | 8 | 99 | 2 | 14 | 7 | 105 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Reported by **31** distros on [repology.org](https://repology.org/project/vultr-
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `3.11.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `3.11.0` | ✅ latest |
 | Fedora rawhide | `3.9.2` | ⚠️ outdated |
 | Nix unstable | `3.11.0` | ✅ latest |
 | Void | `3.10.0` | ⚠️ outdated |
@@ -99,4 +99,4 @@ Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:25:39Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:51:31Z._
