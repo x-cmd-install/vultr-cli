@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 559 · **Forks**: 85 · **Open issues**: 100 · **Contributors**: 40
+- **Stars**: 560 · **Forks**: 85 · **Open issues**: 100 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 1 | 5 | 2 | 1 | 1 | 4 |
-| 90d | 2026-06-15 | 1 | 5 | 2 | 1 | 1 | 5 |
-| last180d | 2026-03-17 | 3 | 24 | 2 | 2 | 1 | 21 |
-| 360d | 2025-09-18 | 4 | 37 | 2 | 5 | 1 | 34 |
-| last720d | 2024-09-23 | 8 | 99 | 2 | 14 | 7 | 105 |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 1 | 5 | 2 | 1 | 1 | 4 |
+| 90d | 2026-06-16 | 1 | 5 | 2 | 1 | 1 | 5 |
+| last180d | 2026-03-18 | 3 | 21 | 2 | 2 | 1 | 21 |
+| 360d | 2025-09-19 | 4 | 34 | 2 | 5 | 1 | 34 |
+| last720d | 2024-09-24 | 8 | 99 | 2 | 14 | 7 | 105 |
 
 ## Release assets
 
@@ -78,18 +78,6 @@ Lowest-scoring checks:
 | [vultr-cli_v3.11.0_windows_amd64.zip](https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_amd64.zip) | 3.9 MiB | `native/win/x64` |
 | [vultr-cli_v3.11.0_windows_arm64.zip](https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_arm64.zip) | 3.5 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **31** distros on [repology.org](https://repology.org/project/vultr-cli). **10** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `3.11.0` | ✅ latest |
-| Homebrew | `3.11.0` | ✅ latest |
-| Fedora rawhide | `3.9.2` | ⚠️ outdated |
-| Nix unstable | `3.11.0` | ✅ latest |
-| Void | `3.10.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vultr-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +87,4 @@ Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:51:31Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:56:17Z._
