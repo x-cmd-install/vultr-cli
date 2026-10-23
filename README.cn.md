@@ -26,12 +26,12 @@ x install vultr-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **2.6 / 10**
+总评分: **2.5 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 8/27 approved changesets -- score normalized to 2
 - **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
-- **Code-Review** (3/10) — Found 9/27 approved changesets -- score normalized to 3
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 
 ## 源代码
@@ -42,27 +42,27 @@ x install vultr-cli
 ## 发布
 
 - **最新版本**: `v3.11.0` (2026-08-07)
-- **最近提交**: 2026-10-19
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 564 · **Fork**: 86 · **开放 issue**: 100 · **贡献者**: 40
+- **Star**: 564 · **Fork**: 86 · **开放 issue**: 100 · **贡献者**: 42
 
 ## 累计统计
 
-- **发布数**: 76 · **已合并 PR**: 461 · **开放 PR**: 2 · **已关闭 issue**: 79 · **开放 issue**: 21 · **提交数**: 719
+- **发布数**: 76 · **已合并 PR**: 463 · **开放 PR**: 0 · **已关闭 issue**: 79 · **开放 issue**: 21 · **提交数**: 721
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-23 | 0 | 1 | 1 | 0 | 1 | 1 |
-| 90d | 2026-07-24 | 1 | 5 | 2 | 0 | 1 | 5 |
-| last180d | 2026-04-25 | 1 | 7 | 2 | 2 | 1 | 8 |
-| 360d | 2025-10-27 | 3 | 35 | 2 | 4 | 1 | 35 |
-| last720d | 2024-11-01 | 7 | 90 | 2 | 14 | 5 | 95 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-24 | 0 | 2 | 0 | 0 | 1 | 3 |
+| 90d | 2026-07-25 | 1 | 7 | 0 | 0 | 1 | 7 |
+| last180d | 2026-04-26 | 1 | 9 | 0 | 2 | 1 | 10 |
+| 360d | 2025-10-28 | 3 | 37 | 0 | 4 | 1 | 37 |
+| last720d | 2024-11-02 | 7 | 92 | 0 | 14 | 5 | 97 |
 
 ## Release 资产
 
@@ -78,6 +78,18 @@ x install vultr-cli
 | [vultr-cli_v3.11.0_windows_amd64.zip](https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_amd64.zip) | 3.9 MiB | `native/win/x64` |
 | [vultr-cli_v3.11.0_windows_arm64.zip](https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_arm64.zip) | 3.5 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/vultr-cli) 上共有 **31** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `3.11.0` | ✅ latest |
+| Homebrew | `3.11.0` | ✅ latest |
+| Fedora rawhide | `3.9.2` | ⚠️ outdated |
+| Nix unstable | `3.11.0` | ✅ latest |
+| Void | `3.11.0` | ✅ latest |
+
 ## 改进这些数据
 
 vultr-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `vultr-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -87,4 +99,4 @@ vultr-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:30:07Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:32:10Z._

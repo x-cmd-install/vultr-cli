@@ -26,12 +26,12 @@ Total: **23,597** lines of code across **79** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **2.6 / 10**
+Overall score: **2.5 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (2/10) — Found 8/27 approved changesets -- score normalized to 2
 - **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
-- **Code-Review** (3/10) — Found 9/27 approved changesets -- score normalized to 3
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.0` (2026-08-07)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-22
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 564 · **Forks**: 86 · **Open issues**: 100 · **Contributors**: 40
+- **Stars**: 564 · **Forks**: 86 · **Open issues**: 100 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 461 · **Open PRs**: 2 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 719
+- **Releases**: 76 · **Merged PRs**: 463 · **Open PRs**: 0 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-23 | 0 | 1 | 1 | 0 | 1 | 1 |
-| 90d | 2026-07-24 | 1 | 5 | 2 | 0 | 1 | 5 |
-| last180d | 2026-04-25 | 1 | 7 | 2 | 2 | 1 | 8 |
-| 360d | 2025-10-27 | 3 | 35 | 2 | 4 | 1 | 35 |
-| last720d | 2024-11-01 | 7 | 90 | 2 | 14 | 5 | 95 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-24 | 0 | 2 | 0 | 0 | 1 | 3 |
+| 90d | 2026-07-25 | 1 | 7 | 0 | 0 | 1 | 7 |
+| last180d | 2026-04-26 | 1 | 9 | 0 | 2 | 1 | 10 |
+| 360d | 2025-10-28 | 3 | 37 | 0 | 4 | 1 | 37 |
+| last720d | 2024-11-02 | 7 | 92 | 0 | 14 | 5 | 97 |
 
 ## Release assets
 
@@ -78,6 +78,18 @@ Lowest-scoring checks:
 | [vultr-cli_v3.11.0_windows_amd64.zip](https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_amd64.zip) | 3.9 MiB | `native/win/x64` |
 | [vultr-cli_v3.11.0_windows_arm64.zip](https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_arm64.zip) | 3.5 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **31** distros on [repology.org](https://repology.org/project/vultr-cli). **11** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `3.11.0` | ✅ latest |
+| Homebrew | `3.11.0` | ✅ latest |
+| Fedora rawhide | `3.9.2` | ⚠️ outdated |
+| Nix unstable | `3.11.0` | ✅ latest |
+| Void | `3.11.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vultr-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +99,4 @@ Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:30:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:32:09Z._
