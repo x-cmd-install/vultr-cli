@@ -14,11 +14,11 @@ x install vultr-cli
 
 ## Code insight
 
-Total: **23,597** lines of code across **79** files in the top 5 languages.
+Total: **23,629** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 23,551 | 1,381 | 4,152 | 73 |
+| Go | 23,583 | 1,381 | 4,157 | 73 |
 | Makefile | 29 | 0 | 14 | 1 |
 | Dockerfile | 13 | 0 | 7 | 1 |
 | Sh | 4 | 1 | 1 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.0` (2026-08-07)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 9
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 463 · **Open PRs**: 0 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 721
+- **Releases**: 76 · **Merged PRs**: 464 · **Open PRs**: 0 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 722
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 1 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-24 | 0 | 2 | 0 | 0 | 1 | 3 |
-| 90d | 2026-07-25 | 1 | 7 | 0 | 0 | 1 | 7 |
-| last180d | 2026-04-26 | 1 | 9 | 0 | 2 | 1 | 10 |
-| 360d | 2025-10-28 | 3 | 37 | 0 | 4 | 1 | 37 |
-| last720d | 2024-11-02 | 7 | 92 | 0 | 14 | 5 | 97 |
+| 30d | 2026-09-24 | 0 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-25 | 0 | 3 | 0 | 0 | 1 | 4 |
+| 90d | 2026-07-26 | 1 | 8 | 0 | 0 | 1 | 8 |
+| last180d | 2026-04-27 | 1 | 10 | 0 | 2 | 1 | 11 |
+| 360d | 2025-10-29 | 3 | 38 | 0 | 4 | 1 | 38 |
+| last720d | 2024-11-03 | 7 | 93 | 0 | 14 | 5 | 98 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:32:09Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:17:55Z._
