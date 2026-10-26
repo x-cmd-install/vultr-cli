@@ -1,21 +1,3 @@
-- repo: chocolatey
-  binname: vultr-cli
-  visiblename: Vultr CLI
-  version: 3.11.0
-  origversion: null
-  status: newest
-  summary: A command-line interface for Vultr.
-- repo: parabola
-  subrepo: extra
-  srcname: vultr-cli
-  binname: vultr-cli
-  visiblename: vultr-cli
-  version: 3.11.0
-  origversion: 3.11.0-1
-  status: newest
-  summary: Official command line tool for Vultr services
-  licenses:
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: vultr-cli
@@ -27,6 +9,13 @@
   summary: Official command line tool for Vultr services
   licenses:
     - Apache-2.0
+- repo: chocolatey
+  binname: vultr-cli
+  visiblename: Vultr CLI
+  version: 3.11.0
+  origversion: null
+  status: newest
+  summary: A command-line interface for Vultr.
 - repo: chocolatey
   binname: vultr-cli.portable
   visiblename: vultr-cli (Portable)
@@ -336,6 +325,17 @@
     - barbosa.aob@gmail.com
   categories:
     - sysutils
+- repo: parabola
+  subrepo: extra
+  srcname: vultr-cli
+  binname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.11.0
+  origversion: 3.11.0-1
+  status: newest
+  summary: Official command line tool for Vultr services
+  licenses:
+    - Apache-2.0
 - repo: pkgsrc_2026_2
   srcname: net/vultr-cli
   binname: vultr-cli
@@ -353,7 +353,7 @@
   binname: vultr-cli
   visiblename: net/vultr-cli
   version: 2.20.0
-  origversion: 2.20.0nb28
+  origversion: 2.20.0nb29
   status: outdated
   summary: Official command line tool for Vultr services
   maintainers:
