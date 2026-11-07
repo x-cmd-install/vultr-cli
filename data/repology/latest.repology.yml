@@ -1,15 +1,70 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vultr-cli
+  binname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.11.0
+  origversion: 3.11.0-1
+  status: newest
+  summary: Official command line tool for Vultr services
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.1.0
+  origversion: null
+  status: outdated
+  summary: Official command line tool for Vultr services
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.4.0
+  origversion: null
+  status: outdated
+  summary: Official command line tool for Vultr services
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.4.0
+  origversion: null
+  status: outdated
+  summary: Official command line tool for Vultr services
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: vultr-cli
+  visiblename: vultr-cli
+  version: 3.8.0
+  origversion: null
+  status: outdated
+  summary: Official command line tool for Vultr services
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
 - repo: manjaro_testing
   subrepo: extra
   srcname: vultr-cli
   binname: vultr-cli
   visiblename: vultr-cli
-  version: 2.18.2
-  origversion: 2.18.2-1
-  status: outdated
+  version: 3.11.0
+  origversion: 3.11.0-1
+  status: newest
   summary: Official command line tool for Vultr services
   licenses:
-    - Apache
-- repo: manjaro_unstable
+    - Apache-2.0
+- repo: manjaro_stable
   subrepo: extra
   srcname: vultr-cli
   binname: vultr-cli
@@ -130,6 +185,22 @@
   categories:
     - Unspecified
 - repo: fedora_42
+  subrepo: updates
+  srcname: vultr-cli
+  binnames:
+    - vultr-cli
+    - vultr-cli-debuginfo
+    - vultr-cli-debugsource
+  visiblename: vultr-cli
+  version: 3.6.0
+  origversion: 3.6.0-1.fc42
+  status: outdated
+  summary: Official command line tool for Vultr services
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
   subrepo: release
   srcname: vultr-cli
   binnames:
@@ -144,22 +215,6 @@
   summary: Official command line tool for Vultr services
   licenses:
     - Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_42
-  subrepo: updates
-  srcname: vultr-cli
-  binnames:
-    - vultr-cli
-    - vultr-cli-debuginfo
-    - vultr-cli-debugsource
-  visiblename: vultr-cli
-  version: 3.6.0
-  origversion: 3.6.0-1.fc42
-  status: outdated
-  summary: Official command line tool for Vultr services
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_43
@@ -236,61 +291,6 @@
   origversion: null
   status: rolling
   summary: Command-line tool for Vultr services
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: vultr-cli
-  binname: vultr-cli
-  visiblename: vultr-cli
-  version: 2.18.2
-  origversion: 2.18.2-1
-  status: outdated
-  summary: Official command line tool for Vultr services
-  licenses:
-    - Apache
-- repo: nix_stable_24_05
-  srcname: vultr-cli
-  visiblename: vultr-cli
-  version: 3.1.0
-  origversion: null
-  status: outdated
-  summary: Official command line tool for Vultr services
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: vultr-cli
-  visiblename: vultr-cli
-  version: 3.4.0
-  origversion: null
-  status: outdated
-  summary: Official command line tool for Vultr services
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: vultr-cli
-  visiblename: vultr-cli
-  version: 3.4.0
-  origversion: null
-  status: outdated
-  summary: Official command line tool for Vultr services
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: vultr-cli
-  visiblename: vultr-cli
-  version: 3.8.0
-  origversion: null
-  status: outdated
-  summary: Official command line tool for Vultr services
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: vultr-cli
   visiblename: vultr-cli
