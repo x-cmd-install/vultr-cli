@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 565 · **Forks**: 87 · **Open issues**: 100 · **Contributors**: 42
+- **Stars**: 565 · **Forks**: 88 · **Open issues**: 100 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 465 · **Open PRs**: 1 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 723
+- **Releases**: 76 · **Merged PRs**: 465 · **Open PRs**: 2 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 3 | 1 | 0 | 0 | 5 |
-| last60d | 2026-09-14 | 0 | 3 | 1 | 0 | 0 | 5 |
-| 90d | 2026-08-15 | 0 | 5 | 1 | 0 | 1 | 6 |
-| last180d | 2026-05-17 | 1 | 10 | 1 | 2 | 1 | 10 |
-| 360d | 2025-11-18 | 3 | 38 | 1 | 4 | 1 | 39 |
-| last720d | 2024-11-23 | 7 | 92 | 1 | 11 | 4 | 97 |
+| 30d | 2026-10-15 | 0 | 3 | 2 | 0 | 0 | 5 |
+| last60d | 2026-09-15 | 0 | 3 | 2 | 0 | 0 | 5 |
+| 90d | 2026-08-16 | 0 | 5 | 2 | 0 | 1 | 6 |
+| last180d | 2026-05-18 | 1 | 10 | 2 | 2 | 1 | 10 |
+| 360d | 2025-11-19 | 3 | 38 | 2 | 4 | 1 | 39 |
+| last720d | 2024-11-24 | 7 | 92 | 2 | 11 | 4 | 97 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:49:30Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:45:51Z._
