@@ -14,11 +14,11 @@ x install vultr-cli
 
 ## Code insight
 
-Total: **23,629** lines of code across **79** files in the top 5 languages.
+Total: **23,566** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 23,583 | 1,381 | 4,157 | 73 |
+| Go | 23,520 | 1,417 | 4,326 | 73 |
 | Makefile | 29 | 0 | 14 | 1 |
 | Dockerfile | 13 | 0 | 7 | 1 |
 | Sh | 4 | 1 | 1 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.0` (2026-08-07)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 565 · **Forks**: 88 · **Open issues**: 100 · **Contributors**: 42
+- **Stars**: 566 · **Forks**: 88 · **Open issues**: 100 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 465 · **Open PRs**: 2 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 723
+- **Releases**: 76 · **Merged PRs**: 467 · **Open PRs**: 2 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 725
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 2 | 2 | 0 | 0 | 3 |
-| last60d | 2026-09-17 | 0 | 3 | 2 | 0 | 0 | 5 |
-| 90d | 2026-08-18 | 0 | 5 | 2 | 0 | 1 | 5 |
-| last180d | 2026-05-20 | 1 | 10 | 2 | 2 | 1 | 10 |
-| 360d | 2025-11-21 | 3 | 36 | 2 | 4 | 1 | 36 |
-| last720d | 2024-11-26 | 7 | 91 | 2 | 11 | 4 | 96 |
+| 30d | 2026-10-18 | 0 | 4 | 2 | 0 | 0 | 5 |
+| last60d | 2026-09-18 | 0 | 5 | 2 | 0 | 0 | 7 |
+| 90d | 2026-08-19 | 0 | 7 | 2 | 0 | 1 | 7 |
+| last180d | 2026-05-21 | 1 | 12 | 2 | 2 | 1 | 12 |
+| 360d | 2025-11-22 | 3 | 38 | 2 | 4 | 1 | 38 |
+| last720d | 2024-11-27 | 7 | 93 | 2 | 11 | 4 | 98 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **31** distros on [repology.org](https://repology.org/project/vultr-cli). **11** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **32** distros on [repology.org](https://repology.org/project/vultr-cli). **11** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:59:12Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:23:42Z._
