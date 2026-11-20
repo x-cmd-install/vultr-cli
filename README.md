@@ -14,11 +14,11 @@ x install vultr-cli
 
 ## Code insight
 
-Total: **23,566** lines of code across **79** files in the top 5 languages.
+Total: **23,570** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 23,520 | 1,417 | 4,326 | 73 |
+| Go | 23,524 | 1,417 | 4,326 | 73 |
 | Makefile | 29 | 0 | 14 | 1 |
 | Dockerfile | 13 | 0 | 7 | 1 |
 | Sh | 4 | 1 | 1 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.0` (2026-08-07)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-19
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 566 · **Forks**: 88 · **Open issues**: 100 · **Contributors**: 42
+- **Stars**: 565 · **Forks**: 89 · **Open issues**: 100 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 467 · **Open PRs**: 2 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 725
+- **Releases**: 76 · **Merged PRs**: 469 · **Open PRs**: 3 · **Closed issues**: 79 · **Open issues**: 21 · **Commits**: 727
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 4 | 2 | 0 | 0 | 5 |
-| last60d | 2026-09-20 | 0 | 5 | 2 | 0 | 0 | 7 |
-| 90d | 2026-08-21 | 0 | 7 | 2 | 0 | 1 | 7 |
-| last180d | 2026-05-23 | 1 | 12 | 2 | 2 | 1 | 12 |
-| 360d | 2025-11-24 | 3 | 38 | 2 | 4 | 1 | 38 |
-| last720d | 2024-11-29 | 7 | 93 | 2 | 11 | 4 | 98 |
+| 30d | 2026-10-21 | 0 | 6 | 3 | 0 | 0 | 7 |
+| last60d | 2026-09-21 | 0 | 7 | 3 | 0 | 0 | 9 |
+| 90d | 2026-08-22 | 0 | 9 | 3 | 0 | 1 | 9 |
+| last180d | 2026-05-24 | 1 | 14 | 3 | 2 | 1 | 14 |
+| 360d | 2025-11-25 | 3 | 40 | 3 | 4 | 1 | 40 |
+| last720d | 2024-11-30 | 7 | 95 | 3 | 11 | 4 | 100 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:31:39Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:44:42Z._
