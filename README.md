@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 6 | 2 | 0 | 0 | 6 |
-| last60d | 2026-09-23 | 0 | 8 | 2 | 0 | 0 | 10 |
-| 90d | 2026-08-24 | 0 | 9 | 2 | 0 | 1 | 10 |
-| last180d | 2026-05-26 | 1 | 15 | 2 | 2 | 1 | 15 |
-| 360d | 2025-11-27 | 3 | 41 | 2 | 4 | 1 | 41 |
-| last720d | 2024-12-02 | 7 | 96 | 2 | 10 | 4 | 101 |
+| 30d | 2026-10-24 | 0 | 6 | 2 | 0 | 0 | 6 |
+| last60d | 2026-09-24 | 0 | 8 | 2 | 0 | 0 | 10 |
+| 90d | 2026-08-25 | 0 | 9 | 2 | 0 | 1 | 10 |
+| last180d | 2026-05-27 | 1 | 15 | 2 | 1 | 1 | 15 |
+| 360d | 2025-11-28 | 3 | 41 | 2 | 4 | 1 | 41 |
+| last720d | 2024-12-03 | 7 | 96 | 2 | 10 | 4 | 101 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vultr-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:00:32Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T11:15:21Z._
